@@ -1,0 +1,2 @@
+# NextManagerToolsGo
+Python script
